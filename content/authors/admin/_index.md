@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Zichen Zhao
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Zichen
+last_name: Zhao
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,18 +23,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Undergraduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Nanjing University of Aeronautics and Astronautics
+    url: https://ai.nuaa.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'jeremy0228@163.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
@@ -48,35 +48,21 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
+  - MultiModal Large Language Models
   - Computer Vision
+  - Embodied AI
+  - 3D Vision
   - Reinforcement Learning
-  - AI Ethics
+  #- AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
-    summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
-    summary: |
-      GPA: 4.0/4.0
 
-      Specialized in machine learning and robotics.
   - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+    institution: CEIE, NUAA
+    date_start: 2022-09-01
+    date_end: 2026-05-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 3.5/5.0
 
       Minored in Mathematics. President of AI Club.
 
@@ -166,4 +152,6 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+I am an undergraduate majoring in Electronic Information Science and Technology at Nanjing University of Aeronautics and Astronautics. My academic foundation spans MultiModal Large Language Models, Computer Vision, Embodied AI, 3D Vision, and Reinforcement Learning. Driven by curiosity and persistence, I aspire to develop intelligent algorithms that solve real-world problems and push the boundaries of artificial intelligence.
+
+Currently looking for RA opportunities.
