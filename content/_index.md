@@ -29,6 +29,10 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+
+
+
+        
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
@@ -109,7 +113,7 @@ sections:
 
 
 
-        
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

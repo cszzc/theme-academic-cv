@@ -53,7 +53,7 @@ interests:
   - Embodied AI
   - Image Processing
   - 3D Vision
-  - Reinforcement Learning
+  - Robotics
   #- AI Ethics
 
 # education:
@@ -150,7 +150,7 @@ languages:
 #       Recognized for contributions to scaling laws in deep learning.
 ---
 
-I am an undergraduate majoring in Electronic Information Science and Technology at Nanjing University of Aeronautics and Astronautics. My research interests covers a wode range of MultiModal Large Language Models, Computer Vision, Embodied AI, 3D Vision, and Robotics. 
+I am an undergraduate majoring in Electronic Information Science and Technology at Nanjing University of Aeronautics and Astronautics. My research interests covers a wode range of MultiModal Large Language Models, Computer Vision, Embodied AI, Image Processing, 3D Vision, and Robotics. 
 
 Driven by curiosity and persistence, I aspire to develop intelligent algorithms that solve real-world problems and push the boundaries of artificial intelligence.
 
