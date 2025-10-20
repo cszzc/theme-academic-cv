@@ -56,13 +56,13 @@ interests:
   - Reinforcement Learning
   #- AI Ethics
 
-education:
+# education:
 
-  - area: BS Electronic Information Science and Technology
-    institution: CEIE, NUAA
-    date_start: 2022-09-01
-    date_end: 2026-05-31
-    summary: |
+#   - area: BS Electronic Information Science and Technology
+#     institution: CEIE, NUAA
+#     date_start: 2022-09-01
+#     date_end: 2026-05-31
+#     summary: |
       
 
 # work:
