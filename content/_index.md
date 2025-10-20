@@ -32,7 +32,7 @@ sections:
 
 
 
-        
+
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
@@ -59,8 +59,9 @@ sections:
   #     columns: 2
 
   - block: collection
+    id: papers
     content:
-      title: full Publications
+      title: Full Publications
       text: ''
       filters:
         folders:
